@@ -1,4 +1,4 @@
-# # Assessing Current Needs of Code Reviewer Recommendation Systems
+# Assessing Current Needs of Code Reviewer Recommendation Systems
 
 This repository provides a replication data package from the survey conducted for "How software development professionals perceive the use of code reviewer recommendation systems" (submitted CHASE 2025)
 
